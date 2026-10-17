@@ -1,0 +1,6 @@
+{
+  "name": "Ma Babar Dowa Telecom",
+  "description": "মা বাবার দোয়া টেলিকম — প্রিমিয়াম মোবাইল এক্সেসরিজ রিটেইল স্টোর (টঙ্গী, গাজীপুর)। ক্যাশ অন ডেলিভারি এবং দ্রুত সরবরাহ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
